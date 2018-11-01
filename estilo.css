@@ -1,0 +1,17 @@
+body {
+    background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+}
+
+
+
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+
+h3 {
+    color: white;
+}
+
